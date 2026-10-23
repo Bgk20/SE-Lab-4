@@ -39,31 +39,6 @@ SE-Lab-4/
 └── README.md
 ```
 
-## Setup and Execution
-
-### 1. Install Python
-Install Python 3.13 if it is not already installed.
-
-### 2. Install Pygame
-```bash
-py -3.13 -m pip install pygame
-```
-
-### 3. Run the game
-```bash
-py -3.13 main.py
-```
-
-### 4. Run the catch-detection tests
-```bash
-py -3.13 test_catch.py
-```
-
-## Controls
-- **Spacebar:** Start a fishing cast.
-- **R:** Restart after the game ends.
-- **Close window:** Exit the game.
-
 ## Lab Evidence
 
 ### Before Fix
