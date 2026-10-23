@@ -62,10 +62,14 @@ py -3.13 test_catch.py
 ## Lab Evidence
 
 ### Before Fix
-Add the link to the original, genuine BEFORE video here.
+[Watch the BEFORE video](evidence/before.mp4)
+
+Shows the original game behavior before the bug fix.
 
 ### After Fix
-Add the link to the genuine AFTER video showing the corrected game and implemented features here.
+[Watch the AFTER video](evidence/after.mp4)
+
+Shows the corrected catch-detection behavior and implemented game features.
 
 ### ChatGPT Conversation
-Add the link to the full ChatGPT conversation here.
+[View the full ChatGPT conversation](PASTE_YOUR_CHATGPT_CONVERSATION_LINK_HERE)
