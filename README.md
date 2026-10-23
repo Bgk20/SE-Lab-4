@@ -23,6 +23,11 @@ The Fishing Game is a Python game developed using Pygame. The player controls a 
 ## Project Structure
 ```text
 SE-Lab-4/
+├── evidence/
+│   ├── README.md
+│   ├── before.mp4
+│   ├── after.mp4
+│   └── llm_chat.pdf
 ├── game/
 │   ├── catch.py
 │   ├── fish.py
@@ -71,5 +76,8 @@ Shows the original game behavior before the bug fix.
 
 Shows the corrected catch-detection behavior and implemented game features.
 
-### ChatGPT Conversation
-[View the full ChatGPT conversation](PASTE_YOUR_CHATGPT_CONVERSATION_LINK_HERE)
+### ChatGPT Conversation PDF
+[View the ChatGPT conversation PDF](evidence/llm_chat.pdf)
+
+### ChatGPT Conversation Link
+Add your actual shared ChatGPT conversation URL here.
